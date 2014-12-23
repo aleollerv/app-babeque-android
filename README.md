@@ -15,6 +15,8 @@ Features:
 2.0.0
 - Integración Moodle (Moodle API)
 - Login para ver las notas
+- Ver horario de clases
+- Inscribirse en optativas
 
 3.0.0
 - Comprar comida por internet
